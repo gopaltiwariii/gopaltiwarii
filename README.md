@@ -1,2 +1,3 @@
 # gopaltiwarii
-my first repository
+This is my first reposiotry.
+Author -- Gopal tiwari
